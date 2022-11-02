@@ -8,8 +8,8 @@ meta:
   min_core_version: 'v1.1.0'
   cloud_support: Not Supported
   min_supported_version: 'Dremio 22.0'
-  slack_channel_name: 'n/a'
-  slack_channel_link: 'https://www.getdbt.com/community'
+  slack_channel_name: '#db-dremio'
+  slack_channel_link: 'https://getdbt.slack.com/archives/C049G61TKBK'
   platform_name: 'Dremio'
   config_page: 'no-configs'
 ---
